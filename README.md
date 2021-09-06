@@ -6,4 +6,5 @@
 ## GCD and LCM
 2609: [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 1934: [최소공배수](https://www.acmicpc.net/problem/1934)
+9613: [GCD 합](https://www.acmicpc.net/problem/9613)
 
