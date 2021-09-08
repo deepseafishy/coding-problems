@@ -11,3 +11,6 @@
 ## Prime Numbers
 1978: [소수 찾기](https://www.acmicpc.net/problem/1978)
 
+## Sieve of Erathosthenes
+6588: [골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+
