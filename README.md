@@ -14,3 +14,6 @@
 ## Sieve of Erathosthenes
 6588: [골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 
+## Brute Force
+2309: [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+
