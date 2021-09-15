@@ -19,6 +19,7 @@
 1476: [날짜 계산](https://www.acmicpc.net/problem/1476)
 9095: [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
+10974: [모든 순열](https://www.acmicpc.net/problem/10974)
 
 ## BFS, DFS
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
