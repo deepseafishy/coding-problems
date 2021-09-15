@@ -18,4 +18,8 @@
 2309: [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 1476: [날짜 계산](https://www.acmicpc.net/problem/1476)
 9095: [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+14500: [테트로미노](https://www.acmicpc.net/problem/14500)
+
+## BFS, DFS
+14500: [테트로미노](https://www.acmicpc.net/problem/14500)
 
