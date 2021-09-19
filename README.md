@@ -21,6 +21,7 @@
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
 10974: [모든 순열](https://www.acmicpc.net/problem/10974)
 10819: [차이를 최대로](https://www.acmicpc.net/problem/10819)
+6603: [로또](https://www.acmicpc.net/problem/6603)
 
 ## BFS, DFS
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
