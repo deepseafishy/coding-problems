@@ -23,6 +23,7 @@
 10819: [차이를 최대로](https://www.acmicpc.net/problem/10819)  
 6603: [로또](https://www.acmicpc.net/problem/6603)  
 14888: [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)  
+1759: [암호 만들기](https://www.acmicpc.net/problem/1759)  
 
 ## BFS, DFS
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
