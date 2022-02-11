@@ -3,6 +3,9 @@
 ## Simple Maths
 10430: [나머지](https://www.acmicpc.net/problem/10430)
 1037: [약수](https://www.acmicpc.net/problem/1037)
+4375: [1](https://www.scmicpc.net/problem/4375)
+- Python: EOF handling, `all()`, division and remainders
+- C++: EOF handling, division and remainders, faster iostream
 
 ## GCD and LCM
 2609: [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  
