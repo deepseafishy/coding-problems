@@ -6,6 +6,9 @@
 4375: [1](https://www.scmicpc.net/problem/4375)
 - Python: EOF handling, `all()`, division and remainders
 - C++: EOF handling, division and remainders, faster iostream
+17427: [약수2](https://www.scmicpc.net/problem/17427)
+- Python: counting divisors
+- C++: counting divisors
 
 ## GCD and LCM
 2609: [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  
