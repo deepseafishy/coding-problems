@@ -4,11 +4,11 @@
 10430: [나머지](https://www.acmicpc.net/problem/10430)
 1037: [약수](https://www.acmicpc.net/problem/1037)
 4375: [1](https://www.scmicpc.net/problem/4375)
-- Python: EOF handling, `all()`, division and remainders
-- C++: EOF handling, division and remainders, faster iostream
+ - Python: EOF handling, `all()`, division and remainders
+ - C++: EOF handling, division and remainders, faster iostream
 17427: [약수2](https://www.scmicpc.net/problem/17427)
-- Python: counting divisors
-- C++: counting divisors
+ - Python: counting divisors
+ - C++: counting divisors
 
 ## GCD and LCM
 2609: [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  
@@ -34,7 +34,10 @@
 1182: [부분 수열의 합](https://www.acmicpc.net/problem/1182)  
 14501: [퇴사](https://www.acmicpc.net/problem/14501)  
 15658: [연산자 끼워넣기](https://www.acmicpc.net/problem/15658)  
-11723: [집합](https://www.acmicpc.net/problem/11723)  
+11723: [집합](https://www.acmicpc.net/problem/11723)
+3085: [사탕 게임](https://www.acmicpc.net/problem/3085)
+ - Python: taking out redundant operations
+ - C++: taking out redundant operations
 
 ## BFS, DFS
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
