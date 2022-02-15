@@ -9,6 +9,9 @@
 17427: [약수2](https://www.scmicpc.net/problem/17427)
  - Python: counting divisors
  - C++: counting divisors
+17425: [약수의 합](https://www.scmicpc.net/problem/17425)
+ - Python: counting divisors for multiple numbers
+ - C++: counting divisors for multiple numers, printf() and scanf()
 
 ## GCD and LCM
 2609: [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  
