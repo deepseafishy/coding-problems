@@ -11,7 +11,7 @@
  - C++: counting divisors
 17425: [약수의 합](https://www.scmicpc.net/problem/17425)
  - Python: counting divisors for multiple numbers
- - C++: counting divisors for multiple numers, printf() and scanf()
+ - C++: counting divisors for multiple numbers, `printf()` and `scanf()`
 
 ## GCD and LCM
 2609: [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  
@@ -41,6 +41,9 @@
 3085: [사탕 게임](https://www.acmicpc.net/problem/3085)
  - Python: taking out redundant operations
  - C++: taking out redundant operations
+1107: [리모컨](https://www.acmicpc.net/problem/1107)
+ - Python: `itertools.product()`
+ - C++: `to_string()`
 
 ## BFS, DFS
 14500: [테트로미노](https://www.acmicpc.net/problem/14500)
